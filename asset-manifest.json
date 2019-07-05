@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BioInfoBank-usersList/static/css/main.b826d23e.chunk.css",
+    "main.js": "/BioInfoBank-usersList/static/js/main.2a3e3491.chunk.js",
+    "main.js.map": "/BioInfoBank-usersList/static/js/main.2a3e3491.chunk.js.map",
+    "runtime~main.js": "/BioInfoBank-usersList/static/js/runtime~main.c358667b.js",
+    "runtime~main.js.map": "/BioInfoBank-usersList/static/js/runtime~main.c358667b.js.map",
+    "static/js/2.d5b0a073.chunk.js": "/BioInfoBank-usersList/static/js/2.d5b0a073.chunk.js",
+    "static/js/2.d5b0a073.chunk.js.map": "/BioInfoBank-usersList/static/js/2.d5b0a073.chunk.js.map",
+    "index.html": "/BioInfoBank-usersList/index.html",
+    "precache-manifest.ce04f7b7f2f5ac2da47a86c292d8a08c.js": "/BioInfoBank-usersList/precache-manifest.ce04f7b7f2f5ac2da47a86c292d8a08c.js",
+    "service-worker.js": "/BioInfoBank-usersList/service-worker.js",
+    "static/css/main.b826d23e.chunk.css.map": "/BioInfoBank-usersList/static/css/main.b826d23e.chunk.css.map"
+  }
+}
