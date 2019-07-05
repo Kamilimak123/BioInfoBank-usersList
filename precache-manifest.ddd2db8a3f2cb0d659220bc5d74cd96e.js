@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96720f41de334902644505ce23f59e45",
+    "revision": "9da51ec34d35de2c6c61ea8b5adee905",
     "url": "/BioInfoBank-usersList/index.html"
   },
   {
-    "revision": "8efe37986b5aa9bef873",
-    "url": "/BioInfoBank-usersList/static/css/main.b826d23e.chunk.css"
+    "revision": "0216626e5fd7233790d9",
+    "url": "/BioInfoBank-usersList/static/css/main.d90d5e47.chunk.css"
   },
   {
     "revision": "bdf502cd61055812f3f4",
     "url": "/BioInfoBank-usersList/static/js/2.d5b0a073.chunk.js"
   },
   {
-    "revision": "8efe37986b5aa9bef873",
+    "revision": "0216626e5fd7233790d9",
     "url": "/BioInfoBank-usersList/static/js/main.2a3e3491.chunk.js"
   },
   {

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BioInfoBank-usersList/precache-manifest.ce04f7b7f2f5ac2da47a86c292d8a08c.js"
+  "/BioInfoBank-usersList/precache-manifest.ddd2db8a3f2cb0d659220bc5d74cd96e.js"
 );
 
 self.addEventListener('message', (event) => {
