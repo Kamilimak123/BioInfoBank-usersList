@@ -3,22 +3,16 @@ html,body{
   margin: 0;
 }
 
-h2{
-  margin: 5px;
-}
-
 form, table{
   padding: 10px;
 }
 
 .header{
+  margin: 5px;
   color: rgb(48, 19, 151);
   text-align: center;
 }
 
-input:invalid {
-  border: 1px solid red;
-}
 .formInput {
   margin-bottom: 10px;
 }
@@ -31,13 +25,4 @@ button{
 #deleteAll_button{
   display: none;
   margin-left: 30px;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
