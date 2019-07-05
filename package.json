@@ -2,9 +2,13 @@
   "name": "bib-users-list",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://imię.github.io/nazwa",
   "dependencies": {
+    "@material-ui/core": "^4.1.3",
+    "material-table": "^1.40.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-material-ui-form-validator": "^2.0.9",
     "react-scripts": "3.0.1"
   },
   "scripts": {
